@@ -1,2 +1,9 @@
-# single-page-cv
-A single-page HTML CV built with semantic markup, SEO meta tags, and Open Graph tags — roadmap.sh project
+# Single-Page CV
+
+A semantic HTML CV project from the roadmap.sh Frontend Beginner projects list.
+
+## Requirements met
+- Semantic HTML structure
+- SEO meta tags
+- Open Graph tags
+- Favicon
