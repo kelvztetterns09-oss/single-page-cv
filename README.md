@@ -7,3 +7,4 @@ A semantic HTML CV project from the roadmap.sh Frontend Beginner projects list.
 - SEO meta tags
 - Open Graph tags
 - Favicon
+- Project: https://roadmap.sh/projects/single-page-cv
